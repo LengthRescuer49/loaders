@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/bewitched-spam0-1ggdwr38fi8uuv.lua"))()
