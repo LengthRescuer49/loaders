@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/butcher-x-violence-district-spam0-2fodnm5jmjigsn.lua"))()
