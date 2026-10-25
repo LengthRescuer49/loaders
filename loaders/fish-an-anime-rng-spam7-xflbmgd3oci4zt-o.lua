@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/fish-an-anime-rng-spam7-xflbmgd3oci4zt.lua"))()
