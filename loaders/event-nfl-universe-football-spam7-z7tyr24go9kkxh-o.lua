@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/event-nfl-universe-football-spam7-z7tyr24go9kkxh.lua"))()
